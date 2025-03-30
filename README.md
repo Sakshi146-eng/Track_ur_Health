@@ -1,4 +1,4 @@
-# Track_ur_Health 🩺
+# 🩺 Track_ur_Health 
 
 An AI-powered disease prediction system that analyzes symptoms to provide potential diagnoses, treatment options, and medical recommendations.
 
