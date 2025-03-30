@@ -121,15 +121,6 @@ Contributions are welcome! Here are some ways you can contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📸 Screenshots
-
-Here are some screenshots of the Track_ur_Health application:
-
-(https://github.com/Sakshi146-eng/Track_ur_Health/blob/e89fc6cc159ad7fde1e9307caa0179779dd6abe8/img1.png)
-(./images/img2.png)
-(./images/img3.png)
-(./images/Accuracy.jpg)
-
 ---
 
 <p align="center">
