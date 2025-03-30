@@ -51,29 +51,6 @@ You'll see an interactive interface where you can:
 - Adjust the number of results you want to see
 - Get predictions along with medical recommendations
 
-### Use the predictor in your code
-
-```python
-from disease_predictor import EnhancedDiseasePredictor
-
-# Initialize the predictor with the included dataset
-predictor = EnhancedDiseasePredictor('dataset.csv')
-
-# Or use your own dataset with the same column structure
-# predictor = EnhancedDiseasePredictor('your_custom_dataset.csv')
-
-# Predict diseases from symptoms
-symptoms = "fever, cough, sore throat, runny nose"
-predictions = predictor.predict_disease(symptoms, top_n=3)
-
-# Get recommendations for the top prediction
-recommendations = predictor.generate_recommendations(predictions[0]['disease'])
-
-print(f"Top prediction: {predictions[0]['disease']} with {predictions[0]['probability']:.1f}% confidence")
-print(f"Recommended treatments: {recommendations['cures']}")
-print(f"Consult: {recommendations['doctors']}")
-```
-
 ## 📊 Dataset Format
 
 The repository includes a `dataset.csv` file ready to use. If you want to use your own dataset, ensure it has the following columns:
@@ -123,7 +100,6 @@ Contributions are welcome! Here are some ways you can contribute:
 
 ## 📸 Screenshots
 
-Here are some screenshots of the Track_ur_Health application:
 
 ![Image](https://github.com/user-attachments/assets/ca941a38-2054-4372-b25d-282223862418)
 
