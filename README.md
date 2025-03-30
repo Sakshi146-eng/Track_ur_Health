@@ -79,17 +79,6 @@ The repository includes a `dataset.csv` file ready to use. If you want to use yo
 - Risk level assessment
 - Preventive measure generation
 
-## 👨‍💻 Contributing
-
-Contributions are welcome! Here are some ways you can contribute:
-
-- **Add more medical data**: Expand the dataset with more conditions and symptoms
-- **Improve the model**: Experiment with different algorithms or feature engineering approaches
-- **Enhance the UI**: Make the Gradio interface more user-friendly
-- **Add translations**: Help make the system accessible in multiple languages
-- **Report bugs**: Submit issues for any bugs you encounter
-- **Suggest features**: Have ideas? We'd love to hear them!
-
 ### Pull Request Process
 
 1. Fork the repository
