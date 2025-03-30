@@ -121,6 +121,18 @@ Contributions are welcome! Here are some ways you can contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 📸 Screenshots
+
+Here are some screenshots of the Track_ur_Health application:
+
+![Image](https://github.com/user-attachments/assets/ca941a38-2054-4372-b25d-282223862418)
+
+![Image](https://github.com/user-attachments/assets/33b5502d-e68e-46c0-95a4-ac4cee1c719a)
+
+![Image](https://github.com/user-attachments/assets/8753e16b-7dfd-4602-bc29-b51d48439b53)
+
+![Image](https://github.com/user-attachments/assets/a3b8e904-850c-4a14-82dd-0b5c4a651552)
+
 ---
 
 <p align="center">
